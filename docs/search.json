@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\nHello! My name is Alondra Casas and I’m an undergraduate student at California State University, Monterey bay. I’m currently a senior with a major in Marine Science and a minor in Data Science. This is my porfolio for my STAT 210 lab 2."
+  },
+  {
+    "objectID": "about.html#about-me",
+    "href": "about.html#about-me",
+    "title": "About",
+    "section": "About me",
+    "text": "About me\nI have been an Innovation Scholar with the CSUMB Undergraduate Research Opportunities Center for the past 2 and half years, I work at the Monterey Bay Aquarium as an Aquarist in the Drifters/Open Sea Gallery, and I also work at the Cooperative Learning Center as a Calculus 1 tutor."
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About",
+    "section": "Education",
+    "text": "Education\nCalifornia State University, Monterey Bay | Seaside, CA\nB.S in Marine Science, minor in Data Science | 2022 - 2026"
+  },
+  {
+    "objectID": "about.html#experience",
+    "href": "about.html#experience",
+    "title": "About",
+    "section": "Experience",
+    "text": "Experience\nCSUMB Student Housing and Residential Life | Residential Advisor | 2023- Present\nCooperative Learning Center | Calculus 1 Supplemental Instructor | 2025- Present\nThe Monterey Bay Aquarium | Intern Aquarist | 2025- Present\nUndergraduate Research Opportunities Center, CSUMB | Undergraduate Researcher | 2024 - Present"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Alondra Casas",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+  }
+]
