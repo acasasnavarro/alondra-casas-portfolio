@@ -9,17 +9,17 @@ About this site
 
 Hello! My name is Alondra Casas and I'm an undergraduate student at California State University, Monterey bay. I'm currently a senior with a major in Marine Science and a minor in Data Science. This is my porfolio for my STAT 210 lab 2.
 
-## About me 
+## About me
 
 I have been an Innovation Scholar with the CSUMB Undergraduate Research Opportunities Center for the past 2 and half years, I work at the Monterey Bay Aquarium as an Aquarist in the Drifters/Open Sea Gallery, and I also work at the Cooperative Learning Center as a Calculus 1 tutor.
 
-## Education 
+## Education
 
 California State University, Monterey Bay \| Seaside, CA
 
 B.S in Marine Science, minor in Data Science \| 2022 - 2026
 
-## Experience 
+## Experience
 
 CSUMB Student Housing and Residential Life \| Residential Advisor \| 2023- Present
 
