@@ -4,9 +4,6 @@ title: "About"
 
 About this site
 
-```{r}
-```
-
 Hello! My name is Alondra Casas and I'm an undergraduate student at California State University, Monterey bay. I'm currently a senior with a major in Marine Science and a minor in Data Science. This is my porfolio for my STAT 210 lab 2.
 
 ## About me
